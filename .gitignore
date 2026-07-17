@@ -1,0 +1,14 @@
+# Binaries
+bin/
+traffic-generator/traffic-generator
+
+# IDEs
+.idea/
+.vscode/
+
+# System / Logs
+.DS_Store
+*.log
+
+# Foundry runtime defaults (if generated locally)
+deploy/signoz-data/
