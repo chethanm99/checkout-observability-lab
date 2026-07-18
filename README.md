@@ -444,6 +444,12 @@ I know why it failed
 
 ---
 
+# Why SigNoz?
+
+By using SigNoz, I was able to demonstrate how high-cardinality attributes like user.id and product.id can be indexed and searched efficiently—a task that would be prohibitively expensive or impossible using traditional log-based indexing.
+
+---
+
 # Future Improvements
 
 Possible next steps:
