@@ -189,6 +189,9 @@ ClickHouse
 
 # Start SigNoz
 
+<img width="1341" height="591" alt="Screenshot 2026-07-17 152651" src="https://github.com/user-attachments/assets/187adcb9-94ba-49ae-ae87-c4e28a7a65c7" />
+
+
 Deploy SigNoz locally using your preferred deployment method.
 
 The traffic generator expects:
@@ -258,6 +261,9 @@ database connection timeout on pool allocation
 
 ## Before Adding Trace Context
 
+<img width="1291" height="479" alt="Screenshot 2026-07-17 152925" src="https://github.com/user-attachments/assets/3e8aad08-ff2a-43cd-9f5b-2db763eaac29" />
+
+
 The debugging flow looked like:
 
 ```
@@ -283,6 +289,9 @@ Manually connect information
 ---
 
 ## After Adding Structured Trace Events
+
+<img width="1307" height="579" alt="Screenshot 2026-07-17 154708" src="https://github.com/user-attachments/assets/1b594f9e-f912-4562-8a64-89ca5c9aafbd" />
+
 
 The workflow became:
 
@@ -459,14 +468,6 @@ Possible next steps:
 - Build an AI SRE agent using telemetry data
 - Query ClickHouse telemetry through MCP
 - Automate failure investigation workflows
-
----
-
-# Related Blog Post
-
-Full write-up:
-
-https://dev.to/chethanblgs99/from-logprintf-to-trace-context-what-i-learned-debugging-a-go-checkout-service-with-opentelemetry-1nlh
 
 ---
 
